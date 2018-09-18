@@ -1,5 +1,7 @@
 connection: "thelook"
 
+label: "LookML Presentation"
+
 # include all the views
 include: "*.view"
 
